@@ -32,4 +32,4 @@ I build end-to-end systems — from data pipelines and ML models to full-stack w
 ## 📫 Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-frederick--opoku--afriyie.netlify.app-1A3A6B?style=flat)](https://frederick-opoku-afriyie.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/frederick-opoku-afriyie-ba3137335/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/frederick-opoku-afriyie/)
