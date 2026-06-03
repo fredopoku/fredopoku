@@ -1,6 +1,6 @@
 # Hi, I'm Frederick 👋
 
-**MSc Computer Science (Merit) · Software Engineer · AI Researcher · Full-Stack Developer**
+**MSc Computer Science (Merit) · Software Engineer · Data Analyst · AI Researcher · Full-Stack Developer**
 
 I build end-to-end systems — from data pipelines and ML models to full-stack SaaS products. Based in the UK, open to software engineering, AI/ML, and research roles.
 
